@@ -10,9 +10,7 @@ We are hosting Weekly meetings on saturday evening 7.30 PM IST.
 
 We will be uploading the PPT & Notes & Required softwares links in this repository.
 
-=======================================================================
-To Connect : 
-=======================================================================
+Connect with us : 
 Insta : https://www.instagram.com/tamilboomitechnologies/
 Twitter : https://twitter.com/TamilboomiT
 Whatsapp : +91 9619663272
