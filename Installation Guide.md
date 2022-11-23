@@ -7,7 +7,6 @@ Vmware Software Download link : https://www.vmware.com/products/workstation-play
 ====================================================== <br />
 Post Installation to Start Hadoop services: <br /> <br />
 ======================================================      <br />
-<br />
  ==== Daemons to start ==== <br />
 HDFS: <br />
 Linux> start-dfs.sh          # deamons - NameNode / DataNode / SecondaryNameNode <br />
