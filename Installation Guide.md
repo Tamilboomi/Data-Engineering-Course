@@ -14,4 +14,14 @@ Linux> hadoop-daemon.sh start/stop namenode/datanode        # to start individua
 <br /> <br />
 MR/Yarn: <br />
 Linux> start-yarn.sh     # deamons - ResourceManager / NodeManager <br />
-Linux> yarn-daemon.sh start/stop resourcemanager/nodemanager    # to start individual daemon without disturbing other daemon <br />
+Linux> yarn-daemon.sh start/stop resourcemanager/nodemanager    # to start individual daemon without disturbing other daemon <br /><br />
+
+
+For Doubts & Questions - Connect with us : <br />
+Instagram : https://www.instagram.com/tamilboomitechnologies/ <br />
+Whatsapp Group Link:  https://chat.whatsapp.com/LDizTwdnCptDNMRJQCqQ3a <br />
+Telegram Group link : https://t.me/+UJc6DHgPdCdkYWU1 <br />
+Twitter : https://twitter.com/TamilboomiT <br />
+Podcast : https://open.spotify.com/show/30mKTaOI2tYEVvy6S7PDSo?si=ad56f3ac8cd14fdc <br />
+Whatsapp : +91 9619663272 <br />
+Tamilboomi Technologies
