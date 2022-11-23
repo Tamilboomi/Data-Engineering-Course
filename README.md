@@ -13,5 +13,6 @@ We will be uploading the PPT & Notes & Required softwares links in this reposito
 Connect with us : <br />
 Insta : https://www.instagram.com/tamilboomitechnologies/ <br />
 Twitter : https://twitter.com/TamilboomiT <br />
+Podcast : https://open.spotify.com/show/30mKTaOI2tYEVvy6S7PDSo?si=ad56f3ac8cd14fdc <br />
 Whatsapp : +91 9619663272 <br />
 
