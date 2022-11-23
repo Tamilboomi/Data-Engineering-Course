@@ -10,8 +10,10 @@ We are hosting Weekly meetings on saturday evening 7.30 PM IST. <br /> <br />
 
 We will be uploading the PPT & Notes & Required softwares links in this repository. <br /><br />
 
-Connect with us : <br />
-Insta : https://www.instagram.com/tamilboomitechnologies/ <br />
+For Doubts & Questions - Connect with us : <br />
+Instagram : https://www.instagram.com/tamilboomitechnologies/ <br />
+Whatsapp Group Link:  https://chat.whatsapp.com/LDizTwdnCptDNMRJQCqQ3a <br />
+Telegram Group link : https://t.me/+UJc6DHgPdCdkYWU1 <br />
 Twitter : https://twitter.com/TamilboomiT <br />
 Podcast : https://open.spotify.com/show/30mKTaOI2tYEVvy6S7PDSo?si=ad56f3ac8cd14fdc <br />
 Whatsapp : +91 9619663272 <br />
